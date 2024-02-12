@@ -1,0 +1,10 @@
+{
+  "name": "kgbot",
+  "version": "1.0.0",
+  "description": "A telegram bot for keyword monitoring",
+  "main": "index.ts",
+  "repository": "https://github.com/AlphaByte-RedTeam/kgbot.git",
+  "author": "Andrew Virya Victorio <andrew.avv03@gmail.com>",
+  "license": "MIT",
+  "private": null
+}
