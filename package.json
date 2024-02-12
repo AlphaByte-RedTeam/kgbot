@@ -6,5 +6,8 @@
   "repository": "https://github.com/AlphaByte-RedTeam/kgbot.git",
   "author": "Andrew Virya Victorio <andrew.avv03@gmail.com>",
   "license": "MIT",
-  "private": null
+  "private": null,
+  "devDependencies": {
+    "@types/node": "^20.11.17"
+  }
 }
